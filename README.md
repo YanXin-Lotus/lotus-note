@@ -1,18 +1,37 @@
 # lotus-note
 
-private note for golang
+private note
 
-###jwt
+###web framework
+
+##echo
+https://github.com/labstack/echo
+##iris
+https://github.com/kataras/iris
+
+###session and auth
 
 ##jwt
 https://github.com/dgrijalva/jwt-go
-##detail
-http://blog.brainattica.com/restful-json-api-jwt-go/
-##demo
-https://github.com/brainattica/golang-jwt-authentication-api-sample
 
-###gin
-##gin pq
-https://github.com/sosedoff/pgweb
-##gin mw
-http://sosedoff.com/2014/12/21/gin-middleware.html
+###parameter bind
+
+##mapstructure
+https://github.com/mitchellh/mapstructure
+
+###email
+
+##gomail
+https://github.com/go-gomail/gomail
+##email
+https://github.com/jordan-wright/email
+
+###editor
+
+##simditor
+https://github.com/mycolorway/simditor
+
+###blog
+
+##hugo
+https://github.com/spf13/hugo
