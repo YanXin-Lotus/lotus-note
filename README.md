@@ -2,36 +2,41 @@
 
 private note
 
-###web framework
+##web framework
 
-##echo
+###echo
 https://github.com/labstack/echo
-##iris
+###iris
 https://github.com/kataras/iris
 
-###session and auth
+##session and auth
 
-##jwt
+###jwt
 https://github.com/dgrijalva/jwt-go
 
-###parameter bind
+##parameter bind
 
-##mapstructure
+###mapstructure
 https://github.com/mitchellh/mapstructure
 
-###email
-
-##gomail
-https://github.com/go-gomail/gomail
 ##email
+
+###gomail
+https://github.com/go-gomail/gomail
+###email
 https://github.com/jordan-wright/email
 
-###editor
+##css selector
 
-##simditor
+###goQuery
+https://github.com/PuerkitoBio/goquery
+
+##editor
+
+###simditor
 https://github.com/mycolorway/simditor
 
-###blog
+##blog
 
-##hugo
+###hugo
 https://github.com/spf13/hugo
